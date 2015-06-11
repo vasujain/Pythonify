@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-lab02_2.py Asks the user for a number to multiply by itself,
+Asks the user for a number to multiply by itself,
 and asks the user for the number of digits beyond the decimal
 point to display, and gives the answer.
 """

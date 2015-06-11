@@ -18,7 +18,7 @@ def printList(list):
         print parts[partsSize-1], ",",
         parts2 = parts[:-1]
         for i in range(len(parts2)) :
-            print parts2[i], "",
+            print parts2[i],
         print ""
 
 def main():

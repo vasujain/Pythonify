@@ -1,3 +1,6 @@
+#!/usr/bin/env python  
+"""howdy """
+
 for ch in "Howdy":
 	print ch
 
